@@ -56,3 +56,19 @@ a {
   font-size: 1.5rem;
   color: #fff;
 }
+
+.movies {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  color: #fff;
+}
+
+.movies h2 {
+  font-size: 1rem;
+}
+
+.movies .card {
+  margin: 2rem;
+}
