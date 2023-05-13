@@ -72,3 +72,16 @@ a {
 .movies .card {
   margin: 2rem;
 }
+
+/* search */
+.input-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-movie {
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem;
+}
